@@ -9,7 +9,7 @@ We recommend to cite this key as a public electronic ressource:
 Open key of the Megalothorax species of the world (Collembola: Neelidae), version number (DOI)
 
 The key was introduced first time in:
-Schneider C., Minor M., M. and D'Haese, C. (in prep) A new species-group of <em>Megalothorax</em> (Collembola) with Gondwanide distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax<\em> species.
+Schneider C., Minor M., M. and D'Haese, C. (in prep) A new species-group of <em>Megalothorax</em> (Collembola) with Gondwanide distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax</em> species.
 
 Contributors should be listed below by order of first contribution.
 List of publications in which the species data where published should be listed by authors alphabetical order.
