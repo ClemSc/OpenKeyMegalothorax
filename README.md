@@ -21,11 +21,17 @@ List of publications in which the species data where published should be listed 
 
 ## List of publications from which the species data where compiled
 
+Christian, E. (1998), 'Megalothorax sanctistephani sp.n. (Insecta: Collembola: Neelidae) from the catacombs of St. Stephen's Cathedral, Vienna', Annalen des Naturhistorischen Museums, Wien 100B, 15–18.
+
+Christiansen, K. A. and Bellinger, P. F.Honolulu University of Hawaii Press, ed.,  (1992), Insects of Hawaii. Volume 15. Collembola, University of Hawaii Press, Honolulu.
+
 Bonet, F. (1947), 'Monografia de la familia Neelidae (Collembola)', Revista de la Sociedad Mexicana de Historia Natural 8, 131–192.
 
 Börner, C. (1903), 'Neue altweltliche Collembolen, nebst Bemerkungen zur Systematik der Isotominen und Entomobryien', Sitzungs-Berichte der Gesellschaft Naturforschender Freunde zu Berlin (1903), 129–182.
 
 Deharveng, L. (1978), 'Collemboles cavernicoles. 1. Grottes de l'Aguzou (France: Aude)', Bulletin de la Société d'Histoire naturelle de Toulouse 114(3–4), 393–403.
+
+Deharveng, L. and Beruete, E. (1993), 'Megalothorax tuberculatus n. sp., nouveau troglobie des Pyrénées-Atlantiques (France) et de Navarre (Espagne) (Collembole, Neelidae)', Bulletin de la Société entomologique de France 98(1), 15--18.
 
 Denis, J. R. (1933), 'Contributo alla conoscenza del Microgenton di Costa Rica . III. Collemboles de Costa Rica avec une contribution au species de l'ordre (Deuxième note)', Bollettino del Laboratorio di Zoologia generale e agraria 27, 222–322.
 
