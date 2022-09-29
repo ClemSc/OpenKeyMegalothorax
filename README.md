@@ -8,13 +8,16 @@ However, the most sensible practice is to avoid copies proliferation through a c
 Recommended workflow is to update the data interactively with Xper<sup>3</sup>, and deposit an export of the data in XML (data and metadata) and CSV (data only) here for version control and accessiblity. Typical updates may be small corrections or precisions, no necessarily related to a new publication (minor update e.g. v1.00 -> v1.01) or addition of new species or redescribed species (major update e.g. v1.01 -> v2.00). To work privately, it is possible to import the last XML file on a private Xper<sup>3</sup>, edit the data and export it again in XML (for example to update the original base only after a paper is accepted).
 
 We recommend to cite this key as a public electronic ressource:
-Open key of the Megalothorax species of the world (Collembola: Neelidae), version number (DOI)
+Contributor 1, Contributor 2 [...] (year). Open key of the Megalothorax species of the world (Collembola: Neelidae), version number, url, DOI.
+
+Contributors should be listed below by order of first contribution.
 
 The key was introduced first time in:
 Schneider C., Minor M., M. and D'Haese, C. (in prep) A new species-group of <em>Megalothorax</em> (Collembola) with Gondwanide distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax</em> species.
 
-Contributors should be listed below by order of first contribution.
-List of publications in which the species data where published should be listed by authors alphabetical order.
+Citation for the first version is:
+Schneider C., (2022) Open key of the Megalothorax species of the world (Collembola: Neelidae), v1.00, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
+
 
 ## Contributors name by order of first contribution
 - Clément Schneider
@@ -64,3 +67,15 @@ Stach, J. (1960), 'Materialen zur kenntis der collembolen fauna Afghanistans', A
 Willem, V. (1900), 'Un type nouveaux des Smynthuridae: Megalothorax', Annales de la Soc. Entomologique de Belg. 44, 7–10.
 
 Delamare Deboutteville, C. and Massoud, Z. (1963), Collemboles Symphypléones, in C. Delamare Deboutteville and Eduardo Rapoport, ed., 'Biologie de l'Amérique Australe', Éditions du CNRS, pp. 169–289.
+
+# License
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
