@@ -16,7 +16,10 @@ The key was introduced first time in:
 Schneider C., Minor M., M. and D'Haese, C. (in prep) A new species-group of <em>Megalothorax</em> (Collembola) with Gondwanide distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax</em> species.
 
 Citation for the first version is:
-Schneider C., (2022) Open key of the Megalothorax species of the world (Collembola: Neelidae), v1.00, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
+Schneider C., (2022). Open key of the Megalothorax species of the world (Collembola: Neelidae), v1.00, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
+
+Citation for current version (v1.00) is:
+Schneider C., (2022). Open key of the Megalothorax species of the world (Collembola: Neelidae), v1.00, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
 
 
 ## Contributors name by order of first contribution
