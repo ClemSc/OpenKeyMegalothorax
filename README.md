@@ -16,10 +16,10 @@ The key was introduced first time in:
 Schneider C., Minor M., M. and D'Haese, C. (in prep) A new species-group of <em>Megalothorax</em> (Collembola) with Gondwanide distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax</em> species.
 
 Citation for the first version is:
-Schneider C., (2022). Open key of the Megalothorax species of the world (Collembola: Neelidae), v1.00, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
+Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v1.00, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
 
 Citation for current version (v1.00) is:
-Schneider C., (2022). Open key of the Megalothorax species of the world (Collembola: Neelidae), v1.00, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
+Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v1.00, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
 
 
 ## Contributors name by order of first contribution
@@ -27,7 +27,7 @@ Schneider C., (2022). Open key of the Megalothorax species of the world (Collemb
 
 ## List of publications from which the species data where compiled
 
-Christian, E. (1998), 'Megalothorax sanctistephani sp.n. (Insecta: Collembola: Neelidae) from the catacombs of St. Stephen's Cathedral, Vienna', Annalen des Naturhistorischen Museums, Wien 100B, 15–18.
+Christian, E. (1998), '<em>Megalothorax sanctistephani</em> sp.n. (Insecta: Collembola: Neelidae) from the catacombs of St. Stephen's Cathedral, Vienna', Annalen des Naturhistorischen Museums, Wien 100B, 15–18.
 
 Christiansen, K. A. and Bellinger, P. F.Honolulu University of Hawaii Press, ed.,  (1992), Insects of Hawaii. Volume 15. Collembola, University of Hawaii Press, Honolulu.
 
@@ -37,37 +37,33 @@ Börner, C. (1903), 'Neue altweltliche Collembolen, nebst Bemerkungen zur System
 
 Deharveng, L. (1978), 'Collemboles cavernicoles. 1. Grottes de l'Aguzou (France: Aude)', Bulletin de la Société d'Histoire naturelle de Toulouse 114(3–4), 393–403.
 
-Deharveng, L. and Beruete, E. (1993), 'Megalothorax tuberculatus n. sp., nouveau troglobie des Pyrénées-Atlantiques (France) et de Navarre (Espagne) (Collembole, Neelidae)', Bulletin de la Société entomologique de France 98(1), 15--18.
+Deharveng, L. and Beruete, E. (1993), '<em>Megalothorax tuberculatus</em> n. sp., nouveau troglobie des Pyrénées-Atlantiques (France) et de Navarre (Espagne) (Collembole, Neelidae)', Bulletin de la Société entomologique de France 98(1), 15--18.
 
 Denis, J. R. (1933), 'Contributo alla conoscenza del Microgenton di Costa Rica . III. Collemboles de Costa Rica avec une contribution au species de l'ordre (Deuxième note)', Bollettino del Laboratorio di Zoologia generale e agraria 27, 222–322.
 
 Denis, J. R. (1948), 'Collemboles d'Indochine', Notes d'Entomologie Chinoise 12(17), 183–311.
 
-Kováč, Ľ. and Papáč, V. (2010), 'Revision of the genus Neelus Folsom, 1896 (Collembola, Neelida) with the description of two new troglobiotic species from Europe', Zootaxa 2663, 36–52.
+Massoud, Z. and Vannier, G. (1965), '<em>Megalothorax gabonensis</em>, n. sp. et discussion sur la griffe des Neelidae', Revue d'Ecologie et de Biologie du Sol 2(2), 229–237.
 
-Massoud, Z. and Vannier, G. (1965), 'Megalothorax gabonensis, n. sp. et discussion sur la griffe des Neelidae', Revue d'Ecologie et de Biologie du Sol 2(2), 229–237.
+Panina, K., Babenko, A. and Potapov, M. (2022), 'Two new nosed species of the genus <em>Megalothorax</em> (Collembola: Neelidae) from Russia', Zootaxa 5188(4), 383–395.
 
-Panina, K., Babenko, A. and Potapov, M. (2022), 'Two new nosed species of the genus Megalothorax (Collembola: Neelidae) from Russia', Zootaxa 5188(4), 383–395.
+Papáč, V. and Kováč, Ľ. (2013), 'Four new troglobiotic species of the genus <em>Megalothorax</em> Willem, 1900 (Collembola: Neelipleona) from the Carpathian Mountains (Slovakia, Romania)', Zootaxa 3737(5), 545–575.
 
-Papáč, V. and Kováč, Ľ. (2013), 'Four new troglobiotic species of the genus Megalothorax Willem, 1900 (Collembola: Neelipleona) from the Carpathian Mountains (Slovakia, Romania)', Zootaxa 3737(5), 545–575.
+Schneider, C. and DHaese, C. A. (2013), 'Morphological and molecular insights on <em>Megalothorax</em>: the largest Neelipleona genus revisited (Collembola)', Invertebrate Systematics 27(3), 317–364.
 
-Papáč, V., Lukić, M. and Kováč, Ľ. (2016), 'Genus Neelus Folsom, 1896 (Hexapoda, Collembola) reveals its diversity in cave habitats: two new species from Croatia', Zootaxa(4088), 51–75.
+Schneider, C. and Deharveng, L. (2015), 'Two new species of <em>Megalothorax</em> (Neelidae) belonging to the minimus group respectively from Far East Russia and the Pyrenees Mountains.', à choisir ?(?), ?–?.
 
-Schneider, C. and DHaese, C. A. (2013), 'Morphological and molecular insights on Megalothorax: the largest Neelipleona genus revisited (Collembola)', Invertebrate Systematics 27(3), 317–364.
+Schneider, C., Porco, D. and Deharveng, L. (2016), 'Two new <em>Megalothorax</em> species of the <em>minimus</em> group (Collembola, Neelidae)', ZooKeys 554, 37–68.
 
-Schneider, C. and Deharveng, L. (2015), 'Two new species of Megalothorax (Neelidae) belonging to the minimus group respectively from Far East Russia and the Pyrenees Mountains.', à choisir ?(?), ?–?.
+Schneider, C., Zon, S. D. and DHaese, C. A. (2018), '<em>Megalothorax laevis</em> (Neelipleona, Neelidae): Account of a neglected springtail widely distributed in the intertropical zone', International Journal of Tropical Insect Science, 1–24.
 
-Schneider, C., Porco, D. and Deharveng, L. (2016), 'Two new Megalothorax species of the minimus group (Collembola, Neelidae)', ZooKeys 554, 37–68.
-
-Schneider, C., Zon, S. D. and DHaese, C. A. (2018), 'Megalothorax laevis (Neelipleona, Neelidae): Account of a neglected springtail widely distributed in the intertropical zone', International Journal of Tropical Insect Science, 1–24.
-
-Schneider, C. (2017), 'Morphological review of the order Neelipleona (Collembola) through the redescription of the type species of Acanthoneelidus, Neelides and Neelus', Zootaxa.
+Schneider, C. (2017), 'Morphological review of the order Neelipleona (Collembola) through the redescription of the type species of <em>Acanthoneelidus</em>, <em>Neelides</em> and <em>Neelus</em>', Zootaxa.
 
 Stach, J. (1957), 'The apterygotan fauna of Poland in relation to the world-fauna of this group of insects. Families: Neelidae and Dicyrtomidae', Polska Akademia Nauk Instytut Zoologiczny, Krakow, 1–113.
 
 Stach, J. (1960), 'Materialen zur kenntis der collembolen fauna Afghanistans', Acta Zoologica Cracoviensia 5(12), 507–581.
 
-Willem, V. (1900), 'Un type nouveaux des Smynthuridae: Megalothorax', Annales de la Soc. Entomologique de Belg. 44, 7–10.
+Willem, V. (1900), 'Un type nouveaux des Smynthuridae: <em>Megalothorax</em>', Annales de la Soc. Entomologique de Belg. 44, 7–10.
 
 Delamare Deboutteville, C. and Massoud, Z. (1963), Collemboles Symphypléones, in C. Delamare Deboutteville and Eduardo Rapoport, ed., 'Biologie de l'Amérique Australe', Éditions du CNRS, pp. 169–289.
 
