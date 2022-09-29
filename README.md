@@ -1,4 +1,4 @@
-# Open key of the Megalothorax species of the world (Collembola: Neelidae)
+# Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae)
 
 ## How to use
 The present database is made open-source to ensure any further authors to use it and update it at their discretion in future work, without being bound to the initial contributor(s). The XML file can be imported on the [Xper<sup>3</sup>](https://www.xper3.fr) for manual edition and publication of the interative key.
