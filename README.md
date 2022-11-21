@@ -19,11 +19,15 @@ Contributors should be listed below by order of first contribution.
 The key was introduced first time in:
 Schneider C., Minor M., M. and D'Haese, C. (in prep) A new species-group of <em>Megalothorax</em> (Collembola) with Gondwanide distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax</em> species.
 
-Citation for the first version is:
-Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v0.01, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
+Citation for the first version (v1.0.0) is:
+Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v1.0.0, https://github.com/ClemSc/OpenKeyMegalothorax, DOI: [https://doi.org/10.5281/zenodo.7341417](https://doi.org/10.5281/zenodo.7341417).
 
-Citation for current version (v0.01) is:
-Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v0.01, https://github.com/ClemSc/OpenKeyMegalothorax, DOI.
+Citation for current version (v1.0.0) is:
+Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v1.0.0, https://github.com/ClemSc/OpenKeyMegalothorax, DOI: [https://doi.org/10.5281/zenodo.7341417](https://doi.org/10.5281/zenodo.7341417). 
+
+[![DOI](https://zenodo.org/badge/542478389.svg)](https://zenodo.org/badge/latestdoi/542478389)
+
+
 
 
 ## Contributors name by order of first contribution
