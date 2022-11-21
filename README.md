@@ -53,6 +53,8 @@ Panina, K., Babenko, A. and Potapov, M. (2022), 'Two new nosed species of the ge
 
 Papáč, V. and Kováč, Ľ. (2013), 'Four new troglobiotic species of the genus <em>Megalothorax</em> Willem, 1900 (Collembola: Neelipleona) from the Carpathian Mountains (Slovakia, Romania)', Zootaxa 3737(5), 545–575.
 
+Papáč, V., Raschmanová, N. and Kováč, L. (2019), 'New species of the genus Megalothorax Willem, 1900 (Collembola: Neelipleona) from a superficial subterranean habitat at Dobšinská Ice Cave, Slovakia', Zootaxa 4648(1), 165–177.
+
 Schneider, C. and DHaese, C. A. (2013), 'Morphological and molecular insights on <em>Megalothorax</em>: the largest Neelipleona genus revisited (Collembola)', Invertebrate Systematics 27(3), 317–364.
 
 Schneider, C. and Deharveng, L. (2015), 'Two new species of <em>Megalothorax</em> (Neelidae) belonging to the minimus group respectively from Far East Russia and the Pyrenees Mountains.', à choisir ?(?), ?–?.
