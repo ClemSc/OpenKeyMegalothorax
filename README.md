@@ -57,8 +57,6 @@ Papáč, V., Raschmanová, N. and Kováč, L. (2019), 'New species of the genus 
 
 Schneider, C. and DHaese, C. A. (2013), 'Morphological and molecular insights on <em>Megalothorax</em>: the largest Neelipleona genus revisited (Collembola)', Invertebrate Systematics 27(3), 317–364.
 
-Schneider, C. and Deharveng, L. (2015), 'Two new species of <em>Megalothorax</em> (Neelidae) belonging to the minimus group respectively from Far East Russia and the Pyrenees Mountains.', à choisir ?(?), ?–?.
-
 Schneider, C., Porco, D. and Deharveng, L. (2016), 'Two new <em>Megalothorax</em> species of the <em>minimus</em> group (Collembola, Neelidae)', ZooKeys 554, 37–68.
 
 Schneider, C., Zon, S. D. and DHaese, C. A. (2018), '<em>Megalothorax laevis</em> (Neelipleona, Neelidae): Account of a neglected springtail widely distributed in the intertropical zone', International Journal of Tropical Insect Science, 1–24.
