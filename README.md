@@ -12,7 +12,7 @@ Recommended workflow is to update the data interactively with Xper<sup>3</sup>, 
 
 ## How to cite
 We recommend to cite this key as a public electronic ressource:
-Contributor 1, Contributor 2 [...] (year). Open key of the Megalothorax species of the world (Collembola: Neelidae), version number, url, DOI.
+Contributor 1, Contributor 2 [...] (year). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), version number, url, DOI.
 
 Contributors should be listed below by order of first contribution.
 
