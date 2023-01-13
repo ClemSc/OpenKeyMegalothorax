@@ -33,7 +33,7 @@ Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world
 ## Contributors name by order of first contribution
 - Clément Schneider
 
-## List of publications from which the species data where compiled
+## List of publications from which the species data were compiled
 
 Christian, E. (1998), '<em>Megalothorax sanctistephani</em> sp.n. (Insecta: Collembola: Neelidae) from the catacombs of St. Stephen's Cathedral, Vienna', Annalen des Naturhistorischen Museums, Wien 100B, 15–18.
 
