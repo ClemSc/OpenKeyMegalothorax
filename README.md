@@ -17,7 +17,7 @@ Contributor 1, Contributor 2 [...] (year). Open key of the <em>Megalothorax</em>
 Contributors should be listed below by order of first contribution.
 
 The key was introduced first time in:
-Schneider C., Minor M., M. and D'Haese, C. (in prep) A new species-group of <em>Megalothorax</em> (Collembola) with Gondwanide distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax</em> species.
+Schneider C., Minor M., M. and D'Haese, C. (2023) a new group of species of <em>Megalothorax</em> (Collembola) with Gondwanan distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax</em> species. Zootaxa, 5228(2), 101–121.
 
 Citation for the first version (v1.0.0) is:
 Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v1.0.0, https://github.com/ClemSc/OpenKeyMegalothorax, DOI: [https://doi.org/10.5281/zenodo.7341417](https://doi.org/10.5281/zenodo.7341417).
@@ -45,7 +45,7 @@ Börner, C. (1903), 'Neue altweltliche Collembolen, nebst Bemerkungen zur System
 
 Deharveng, L. (1978), 'Collemboles cavernicoles. 1. Grottes de l'Aguzou (France: Aude)', Bulletin de la Société d'Histoire naturelle de Toulouse 114(3–4), 393–403.
 
-Deharveng, L. and Beruete, E. (1993), '<em>Megalothorax tuberculatus</em> n. sp., nouveau troglobie des Pyrénées-Atlantiques (France) et de Navarre (Espagne) (Collembole, Neelidae)', Bulletin de la Société entomologique de France 98(1), 15--18.
+Deharveng, L. and Beruete, E. (1993), '<em>Megalothorax tuberculatus</em> n. sp., nouveau troglobie des Pyrénées-Atlantiques (France) et de Navarre (Espagne) (Collembole, Neelidae)', Bulletin de la Société entomologique de France 98(1), 15–18.
 
 Denis, J. R. (1933), 'Contributo alla conoscenza del Microgenton di Costa Rica . III. Collemboles de Costa Rica avec une contribution au species de l'ordre (Deuxième note)', Bollettino del Laboratorio di Zoologia generale e agraria 27, 222–322.
 
@@ -59,7 +59,9 @@ Papáč, V. and Kováč, Ľ. (2013), 'Four new troglobiotic species of the genus
 
 Papáč, V., Raschmanová, N. and Kováč, L. (2019), 'New species of the genus Megalothorax Willem, 1900 (Collembola: Neelipleona) from a superficial subterranean habitat at Dobšinská Ice Cave, Slovakia', Zootaxa 4648(1), 165–177.
 
-Schneider, C. and DHaese, C. A. (2013), 'Morphological and molecular insights on <em>Megalothorax</em>: the largest Neelipleona genus revisited (Collembola)', Invertebrate Systematics 27(3), 317–364.
+Schneider, C. and D'Haese, C. A. (2013), 'Morphological and molecular insights on <em>Megalothorax</em>: the largest Neelipleona genus revisited (Collembola)', Invertebrate Systematics 27(3), 317–364.
+
+Schneider C., Minor M., M. and D'Haese, C. (2023) a new group of species of <em>Megalothorax</em> (Collembola) with Gondwanan distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax</em> species. Zootaxa, 5228(2), 101–121.
 
 Schneider, C., Porco, D. and Deharveng, L. (2016), 'Two new <em>Megalothorax</em> species of the <em>minimus</em> group (Collembola, Neelidae)', ZooKeys 554, 37–68.
 
