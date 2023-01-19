@@ -3,6 +3,8 @@
 ## How to use
 If you are looking for the interactive identification tool, click on [this link](https://www.xper3.fr/xper3GeneratedFiles/publish/identification/-9016514619991831667/mkey.html)
 
+Feedbacks are welcome. Something that appear clear to a specialist may not be so clear to the user. Illustrations are being added progressively.
+
 ## How to contribute
 The present database is made open-source to ensure any further authors to use it and update it at their discretion in future work, without being bound to the initial contributor(s). The XML file can be imported on the [Xper<sup>3</sup>](https://www.xper3.fr) for manual edition and publication of the interative key.
 
@@ -15,6 +17,7 @@ We recommend to cite this key as a public electronic ressource:
 Contributor 1, Contributor 2 [...] (year). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), version number, url, DOI.
 
 Contributors should be listed below by order of first contribution.
+
 
 The key was introduced first time in:
 Schneider C., Minor M., M. and D'Haese, C. (2023) a new group of species of <em>Megalothorax</em> (Collembola) with Gondwanan distribution, and introducing an openly licensed interactive identification key of <em>Megalothorax</em> species. Zootaxa, 5228(2), 101–121.
