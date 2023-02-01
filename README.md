@@ -3,7 +3,9 @@
 ## How to use
 If you are looking for the interactive identification tool, click on [this link](https://www.xper3.fr/xper3GeneratedFiles/publish/identification/-9016514619991831667/mkey.html)
 
-Feedbacks are welcome. Something that appear clear to a specialist may not be so clear to the user. Illustrations are being added progressively.
+To restrict the species list, select the observed character states. Mind that for many 'older' species which were not completly described, the state of some characters may be ambiguous. When a character cannot be properly observed, it is possible to ignore it, or to tick several possible states.
+
+Feedbacks are welcome. Something that appear clear to a specialist may not be so clear to the user.
 
 ## How to contribute
 The present database is made open-source to ensure any further authors to use it and update it at their discretion in future work, without being bound to the initial contributor(s). The XML file can be imported on the [Xper<sup>3</sup>](https://www.xper3.fr) for manual edition and publication of the interative key.
