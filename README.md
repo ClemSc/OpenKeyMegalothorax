@@ -27,16 +27,16 @@ Schneider C., Minor M., M. and D'Haese, C. (2023) a new group of species of <em>
 Citation for the first version (v1.0.0) is:
 Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v1.0.0, https://github.com/ClemSc/OpenKeyMegalothorax, DOI: [https://doi.org/10.5281/zenodo.7341417](https://doi.org/10.5281/zenodo.7341417).
 
-Citation for current version (v1.0.0) is:
-Schneider C., (2022). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v1.0.0, https://github.com/ClemSc/OpenKeyMegalothorax, DOI: [https://doi.org/10.5281/zenodo.7341417](https://doi.org/10.5281/zenodo.7341417). 
+Citation for current version (v1.0.3) is:
+Schneider C., Panina Ksenia (2025). Open key of the <em>Megalothorax</em> species of the world (Collembola: Neelidae), v1.0.3, https://github.com/ClemSc/OpenKeyMegalothorax, DOI: [https://doi.org/10.5281/zenodo.7341417](https://doi.org/10.5281/zenodo.7341417).
 
 [![DOI](https://zenodo.org/badge/542478389.svg)](https://zenodo.org/badge/latestdoi/542478389)
 
 
 
-
 ## Contributors name by order of first contribution
 - Clément Schneider
+- Ksenia Panina
 
 ## List of publications from which the species data were compiled
 
